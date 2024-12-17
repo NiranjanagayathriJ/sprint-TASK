@@ -56,7 +56,7 @@ class Details {
 		System.out.println("Insurance:"+insurance);
 	}
 	float overtime(int sal) {
-		int pay=500*ot;
+		int pay=100*ot;
 		return sal+pay;
 	}
 	void bonus() {
