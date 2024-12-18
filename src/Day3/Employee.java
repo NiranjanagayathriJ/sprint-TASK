@@ -7,6 +7,7 @@ public class Employee {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Branch 1 PUSH Test into GITHUB");
+		System.out.println("Branch 1 PULL Test into STS");
 		Employee e=new Employee();
 		Scanner sc=new Scanner(System.in);
 		Details d=e.new Details();
